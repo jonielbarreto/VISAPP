@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Trained weights
+*.pt
+*.pth
+
+# Datasets / training runs / experiment outputs
+test_set/
+runs/
+models/
+results/
